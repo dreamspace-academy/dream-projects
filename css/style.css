@@ -19,7 +19,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #194376;
+  --primary: #ff0707;
   --secondary: #46C6CE;
   --success: #28a745;
   --info: #17a2b8;
@@ -6091,10 +6091,6 @@ a.close.disabled {
 
 .align-text-top {
   vertical-align: text-top !important;
-}
-
-.bg-primary {
-  background-color: #194376 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,

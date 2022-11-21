@@ -5,7 +5,7 @@ engine.setProperty('voice', voices[1].id)
 
 vehicle_type = input("Enter your vehicle type: ")
 
-vehicle = " "
+story = ""
 
 
 
@@ -23,12 +23,9 @@ if vehicle_type == "car":
     fuel_tank_capacity = input("Enter your fuel tank capacity: ")
     other_featuers = input("Enter about your car's other special abilities: ")
 
+    story = f'Hi, I am a story teller robot, today I am going to present the story of{vehicle_type}, it is latest model that {vehicle_model_name}in last year relesed list,average mileage is { averege_mileage}and city mielage is { city_mileage},it is using {fuel_type}to run.'
 
+    engine.say(story)
+    engine.runAndWait()
 else:
     exit()
-
-
-
-
-engine.say(story)
-engine.runAndWait()

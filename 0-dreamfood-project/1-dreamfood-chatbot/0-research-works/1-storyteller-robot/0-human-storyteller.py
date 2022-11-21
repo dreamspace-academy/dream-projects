@@ -1,5 +1,5 @@
 
-import pyttsx3
+ frimport pyttsx3
 
 engine = pyttsx3.init()
 
@@ -11,7 +11,7 @@ name = input("Enter your name: ")
 age = input("Enter your age: ")
 job = input("Enter your job: ")
 nationality = input("Enter your nationality: ")
-activities = input("Enter your free time activities: ")
+activities = input("Enter youree time activities: ")
 gender = input("Enter your gender: ")
 
 genderPronuon = ""

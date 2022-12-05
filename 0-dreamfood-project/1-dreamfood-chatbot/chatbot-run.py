@@ -1,4 +1,7 @@
+import os
 import pyttsx3
+from playsound import playsound
+import webbrowser
 
 engine = pyttsx3.init()
 
@@ -21,6 +24,18 @@ while True:
 
     elif userInput == "how are you?":
         talk_function("I am fine")
+
+    elif userInput == "play a song":
+        playsound('song-1.mp3')
+
+    elif userInput == "open youtube":
+        webbrowser.open('http://www.youtube.com')
+    
+    elif userInput == "open an image":
+        os.startfile("image-1.jpg")
+
+
+
 
 
 

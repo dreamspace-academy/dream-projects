@@ -26,7 +26,7 @@ companystaff = input("How many employees works in your company: ")
 
 
 
-story = f'Hi, I am a story teller robot, today I am going to present the story of {company_name}, {company_name} is in {company_location}. this is a {company_field} there are{companystaff} works in this company and {company_name} mission and vision{company_mission}'
+story = f'Hi, I am a story teller robot, today I am going to present the story of {company_name}, {company_name} is in {company_location}. this is a {company_field}based company. there are{companystaff}emplyees works in this company and {company_name} mission and vision{company_mission}'
 
 engine.say(story)
 engine.runAndWait()

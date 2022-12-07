@@ -1,0 +1,7 @@
+name=nilaavan
+ag=32
+place=kallady
+gender=male
+job=dlsakldsa
+phone=23232
+email=dasdsa

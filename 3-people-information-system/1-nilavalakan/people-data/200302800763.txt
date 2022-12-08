@@ -1,0 +1,5 @@
+name =nilavalakan
+age  =19
+gender=male
+email address=nilavalkan@gmail.com
+place=mullaitivu

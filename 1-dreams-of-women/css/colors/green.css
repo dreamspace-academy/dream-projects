@@ -5,23 +5,23 @@
 */
 
 ::-moz-selection {
-    background: #91DA32;
+    background:#FE6500;
 }
 ::selection {
-	background: #91DA32;
+	background:#FE6500;
 }
 
 .backgrounds {
-   background: #91DA32;
+   background:#56509F;
 }
 .overlay {
-    background: rgba(145,218,50, 0.8);
+    background:#56509F;
 }
 .post-time-section .post-month .month {
-	background-color: #91DA32;
+	background-color: #56509F;
 }
 .search-button { 
-    background: #91DA32;
+    background: #56509F;
 }
 
 .btn-home a,
@@ -56,7 +56,7 @@
 .cbp-l-loadMore-button .cbp-l-loadMore-button-link:hover,
 .pager li>a:hover, .pager li>a:focus 
 {
-	background: #91DA32;
+	background: #FE6500;
 }
 
 

@@ -1,0 +1,6 @@
+name=thuluxsan
+age=20
+place=udaiyarkaddu
+gender=male
+phone=vivo y51
+email=thuluxsanthuluxsan052002@gmail.com

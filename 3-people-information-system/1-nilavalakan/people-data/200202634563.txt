@@ -1,5 +1,0 @@
-name =sai
-age  =19
-gender=male
-email address=sai@gmail.com
-place=mullaitivu

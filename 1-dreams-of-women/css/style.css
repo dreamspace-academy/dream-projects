@@ -1457,13 +1457,14 @@ nav {
     margin: -50px 23px 25px;
     padding: 17px 10px;
     text-align: center;
-    background: rgba(255,255,255, .98);
+    background: #ffffff;
     z-index: 3;
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     -moz-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     -o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     -ms-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    
 }
 .member-info h4 {
     line-height: .6;
@@ -1485,7 +1486,7 @@ nav {
     margin-right: 5px;
 }
 .member-list a {
-    color: #1c1c1c;
+    color: #e5eee8;
 }
 
 /* Img Hover Effect */

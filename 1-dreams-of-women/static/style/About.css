@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/Women.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.heading {
+    position: relative;
+    top: 55%;
+    left: 45%;
+    font-weight: 700;
+    font-size: 55px;
+}
